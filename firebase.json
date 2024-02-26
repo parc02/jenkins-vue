@@ -1,7 +1,7 @@
 {
   "hosting": {
     "site": "bbanque-jenkins-vue",
-    "public": "public",
+    "public": "dist",
     "ignore": [
       "firebase.json",
       "**/.*",
